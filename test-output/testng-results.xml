@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="4" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="205" started-at="2022-08-09T07:30:38 GST" finished-at="2022-08-09T07:30:38 GST">
+    <groups>
+    </groups>
+    <test name="Credit card" duration-ms="103" started-at="2022-08-09T07:30:38 GST" finished-at="2022-08-09T07:30:38 GST">
+      <class name="testng">
+        <test-method status="PASS" signature="beforetest1()[pri:0, instance:testng@51c8530f]" name="beforetest1" is-config="true" duration-ms="14" started-at="2022-08-09T07:30:38 GST" finished-at="2022-08-09T07:30:38 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest1 -->
+        <test-method status="PASS" signature="firsttest()[pri:0, instance:testng@51c8530f]" name="firsttest" duration-ms="14" started-at="2022-08-09T07:30:38 GST" finished-at="2022-08-09T07:30:38 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firsttest -->
+        <test-method status="PASS" signature="secondtest()[pri:0, instance:testng@51c8530f]" name="secondtest" duration-ms="2" started-at="2022-08-09T07:30:38 GST" finished-at="2022-08-09T07:30:38 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondtest -->
+      </class> <!-- testng -->
+    </test> <!-- Credit card -->
+    <test name="Personal Loan" duration-ms="13" started-at="2022-08-09T07:30:38 GST" finished-at="2022-08-09T07:30:38 GST">
+      <class name="testng2">
+        <test-method status="PASS" signature="fourthtest()[pri:0, instance:testng2@fcd6521]" name="fourthtest" duration-ms="5" started-at="2022-08-09T07:30:38 GST" finished-at="2022-08-09T07:30:38 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fourthtest -->
+        <test-method status="PASS" signature="Aftertest1()[pri:0, instance:testng2@fcd6521]" name="Aftertest1" is-config="true" duration-ms="1" started-at="2022-08-09T07:30:38 GST" finished-at="2022-08-09T07:30:38 GST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftertest1 -->
+      </class> <!-- testng2 -->
+    </test> <!-- Personal Loan -->
+  </suite> <!-- Suite -->
+</testng-results>
